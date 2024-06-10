@@ -1,0 +1,11 @@
+langchain==0.2.2
+langchain-core==0.2.4
+langchain-community==0.2.2
+langchain-experimental==0.0.60
+langgraph==0.0.62
+langchain-openai==0.1.7
+openai
+mlflow
+pandas
+numpy
+tabulate
