@@ -1,6 +1,6 @@
 # dais_hackathon_2024
 
-## Connectix Analytics
+## Connective Analytics - Insights at the source
 
 
 Imagine a world where your data analytics are not bound by the limitations of centralized processing. Introducing Connectix Agent, a cutting-edge solution that redefines how we interact with data. Leveraging LangChain v0.2, our platform uses intelligent connectors to bring large language models (LLMs) directly to your data sources. This approach minimizes data movement, reduces latency, and enhances real-time insights. Whether your data resides in SQL databases, CSV files, JSON formats, Amazon S3, vector databases, or any other data repository, Connectix Agent Insight ensures seamless integration and powerful analytics right at the source. Experience the future of data analytics with Connectix Agent Insight, where efficiency meets intelligence.
